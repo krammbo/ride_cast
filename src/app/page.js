@@ -215,7 +215,7 @@ export default function Home() {
           </Grid>
           <Grid item xs={12}>
             <Button onClick={handleSubmit} type="submit" variant="contained" color="primary" fullWidth>
-              Let's Ride
+              Let&apos;s Ride
             </Button>
           </Grid>
         </Grid>
